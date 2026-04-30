@@ -1,0 +1,44 @@
+2. README.md (Project Details)
+Prompt: Introduction for GitHub repo in which i performed RAG task then convert to markdown. Paste the output in README.md file 
+
+
+# 💳 Credit Risk Prediction
+
+## 📌 Introduction
+
+This project focuses on building a **Credit Risk Prediction system** using machine learning techniques. The main objective is to analyze financial and personal data of loan applicants and predict whether a customer is likely to **default on a loan** or not.
+
+In the financial industry, assessing credit risk is crucial for minimizing losses and making informed lending decisions. Traditional methods can be time-consuming and less accurate, so this project leverages **data-driven approaches** to improve prediction accuracy.
+
+## 🎯 Project Goals
+
+- To understand and preprocess real-world financial data  
+- To apply machine learning models for classification  
+- To predict whether a loan applicant is **high risk** or **low risk**  
+- To evaluate model performance using standard metrics  
+
+## 🧠 Approach
+
+The project follows a structured data science workflow:
+
+1. Data Collection  
+2. Data Cleaning & Preprocessing  
+3. Exploratory Data Analysis (EDA)  
+4. Feature Selection  
+5. Model Training (e.g., Logistic Regression, Decision Trees, etc.)  
+6. Model Evaluation  
+
+## ⚙️ Technologies Used
+
+- Python 🐍  
+- Pandas & NumPy  
+- Matplotlib & Seaborn  
+- Scikit-learn  
+
+## 📊 Outcome
+
+The final model helps in identifying risky applicants, enabling better decision-making for financial institutions. This contributes to reducing default rates and improving overall credit management.
+
+---
+
+⭐ *This project is part of my learning journey in Data Science and Machine Learning.*
